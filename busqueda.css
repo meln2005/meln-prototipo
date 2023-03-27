@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    background-color: green;
+    color: lightcyan;
+    padding: 20;
+}
+p{
+    text-align: center;
+    background-color: aqua;
+    color: black;
+    padding: 80;
+}
+ul {
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding: 80;
+}
